@@ -27,5 +27,5 @@ public int EqualityCompare { get; private set; }
         }
     }
 }
-}
+
 
